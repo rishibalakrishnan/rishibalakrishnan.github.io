@@ -1,0 +1,12 @@
+---
+title: The Making of the Tech Worker Movement
+tags:
+categories:
+date: 2023-01-30
+lastMod: 2023-01-30
+---
+Software engineers, product designers, and others enjoyed better conditions than most workers, but they were still workers. Their privileged position gave them a degree of autonomy in their workplaces and, in some cases, non-negligible equity stakes in their firms—these were the bourgeois elements in their contradictory class position. A select few would even ascend into upper management or acquire enough capital to become truly bourgeois. But most would remain in the middle layers, and among the proletarian aspects of this location was the exclusion from real decision-making—namely, investment and production decisions such as whether to build a piece of software for the Trump Administration. Yet this didn’t mean they were powerless. Far from it: if seeing themselves as workers helped clarify the power dynamics within their workplaces, it also presented a way to alter those dynamics. This was the second thing the TWC perspective provided: a method for making change. To the extent that tech workers were workers, they could exercise leverage over management the same way that workers in other industries did—through collective action. For inspiration, TWC looked to the labor movement. ([View Highlight](https://read.readwise.io/read/01gnn9n10dq36k1cn5ejzsm8v3))
+
+When we arrive at the full-time software engineer, however, we reach the most contradictory of the three categories. The relations of production possess both bourgeois and proletarian aspects, which means there is evidence to sustain competing hypotheses. For this group, then, political and ideological struggle serve a critical interpretive function. They attempt to make coherent a highly contradictory situation, by foregrounding the elements that help validate their respective hypotheses, and backgrounding the ones that don’t. ... In the aftermath of Trump’s victory, however, the idea of the “tech worker” became more plausible to more people. This is because the new cycle of political and ideological struggle triggered by Trump brought the proletarian elements of the contradictory class location into sharper focus—in particular, the lack of control over the investment and production decisions of the firm.
+
+  + I think that last sentence is probably the starting point of any organizing for tech workers
